@@ -64,7 +64,7 @@ const PROJECTS: Project[] = [
     span: 'col-span-12',
     aspectRatio: 'aspect-[4/3] md:aspect-[21/9]',
     image: 'https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1200&q=80',
-    url: 'https://github.com/TechTrivedi/dark-portfolio',
+    url: 'https://my-portfolio-woad-iota-55.vercel.app/',
     isVideo: true,
     flashcardFeatures: [
       { icon: '🎨', label: 'GSAP & Framer Motion' },
